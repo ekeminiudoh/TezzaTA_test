@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite thread-count="1" verbose="2" name="Gmail Suite" annotations="JDK" parallel="tests">
+
+    <test name="TC_001_VerifyUserRegistration">
+        <classes>
+            <class name="TestCase.UserRegistration"/>
+        </classes>
+    </test>
+
+</suite>

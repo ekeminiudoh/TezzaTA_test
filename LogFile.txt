@@ -1,0 +1,53 @@
+01 May 2023 07:02:38  INFO src/test/java/Logger - chrome browser launched
+01 May 2023 07:02:48  INFO src/test/java/Logger - Started userRegTest
+01 May 2023 07:02:48  INFO src/test/java/Logger - Attempting to register a user 
+01 May 2023 07:02:52  INFO src/test/java/Logger - Test Passed! Registration Successful!
+01 May 2023 07:02:52  INFO src/test/java/Logger - Completed UserRegistrationTest
+01 May 2023 07:02:52  INFO src/test/java/Logger - Test Completed Successfully
+01 May 2023 07:03:39  INFO src/test/java/Logger - chrome browser launched
+01 May 2023 07:03:49  INFO src/test/java/Logger - Started userRegTest
+01 May 2023 07:03:49  INFO src/test/java/Logger - Attempting to register a user 
+01 May 2023 07:03:51  INFO src/test/java/Logger - Test Passed! Registration Successful!
+01 May 2023 07:03:51  INFO src/test/java/Logger - Completed UserRegistrationTest
+01 May 2023 07:03:52  INFO src/test/java/Logger - Test Completed Successfully
+01 May 2023 07:07:22  INFO src/test/java/Logger - chrome browser launched
+01 May 2023 07:07:30  INFO src/test/java/Logger - Started userRegTest
+01 May 2023 07:07:30  INFO src/test/java/Logger - Attempting to register a user 
+01 May 2023 07:07:34  INFO src/test/java/Logger - Test Failed! Registration failed!
+01 May 2023 07:07:34  INFO src/test/java/Logger - Completed UserRegistrationTest
+01 May 2023 07:07:35  INFO src/test/java/Logger - Test Completed Successfully
+01 May 2023 07:08:24  INFO src/test/java/Logger - chrome browser launched
+01 May 2023 07:08:32  INFO src/test/java/Logger - Started userRegTest
+01 May 2023 07:08:32  INFO src/test/java/Logger - Attempting to register a user 
+01 May 2023 07:08:35  INFO src/test/java/Logger - Test Failed! Registration failed!
+01 May 2023 07:08:35  INFO src/test/java/Logger - Completed UserRegistrationTest
+01 May 2023 07:08:36  INFO src/test/java/Logger - Test Completed Successfully
+01 May 2023 07:18:35  INFO src/test/java/Logger - chrome browser launched
+01 May 2023 07:18:44  INFO src/test/java/Logger - Started userRegTest
+01 May 2023 07:18:44  INFO src/test/java/Logger - Attempting to register a user 
+01 May 2023 07:18:47  INFO src/test/java/Logger - Test Failed! Registration failed!
+01 May 2023 07:18:47  INFO src/test/java/Logger - Completed UserRegistrationTest
+01 May 2023 07:18:47  INFO src/test/java/Logger - Test Completed Successfully
+01 May 2023 07:23:19  INFO src/test/java/Logger - chrome browser launched
+01 May 2023 07:23:28  INFO src/test/java/Logger - Started userRegTest
+01 May 2023 07:23:28  INFO src/test/java/Logger - Attempting to register a user 
+01 May 2023 07:23:31  INFO src/test/java/Logger - Test Failed! Registration failed!
+01 May 2023 07:23:31  INFO src/test/java/Logger - Completed UserRegistrationTest
+01 May 2023 07:23:31  INFO src/test/java/Logger - Test Completed Successfully
+01 May 2023 07:46:44  INFO src/test/java/Logger - chrome browser launched
+01 May 2023 07:46:53  INFO src/test/java/Logger - Started userRegTest
+01 May 2023 07:46:53  INFO src/test/java/Logger - Attempting to register a user 
+01 May 2023 07:46:56  INFO src/test/java/Logger - Test Failed! Registration failed!
+01 May 2023 07:46:57  INFO src/test/java/Logger - Completed UserRegistrationTest
+01 May 2023 07:46:57  INFO src/test/java/Logger - Test Completed Successfully
+01 May 2023 12:51:52  INFO src/test/java/Logger - chrome browser launched
+01 May 2023 12:52:00  INFO src/test/java/Logger - Started userRegTest
+01 May 2023 12:52:00  INFO src/test/java/Logger - Attempting to register a user 
+01 May 2023 12:52:05  INFO src/test/java/Logger - Test Failed! Registration failed!
+01 May 2023 12:52:05  INFO src/test/java/Logger - Completed UserRegistrationTest
+01 May 2023 12:52:06  INFO src/test/java/Logger - Test Completed Successfully
+01 May 2023 13:25:23  INFO src/test/java/Logger - chrome browser launched
+01 May 2023 13:25:33  INFO src/test/java/Logger - Starting web driver
+01 May 2023 13:25:35  INFO src/test/java/Logger - All the mandatory fields has been filled
+01 May 2023 13:25:35  INFO src/test/java/Logger - Test Failed! Registration failed!
+01 May 2023 13:25:35  INFO src/test/java/Logger - Completed UserRegistrationTest
